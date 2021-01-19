@@ -1,6 +1,6 @@
 This is a Covid-19 Tracker with interactive UI using React.js <br />
 Displays live, daily active, recovered and death numbers at country level <br />
-Used disease.sh -An open API for disease-related statistics <br />
+Used disease.sh - An open API for disease-related statistics <br />
 Created Header, Table, Chart, Map – for easy visualization <br />
 Table shows countries with high cases of corona virus infected to least cases of corona virus <br />
 Website URL: <a href="https://covid-19-tracker-23bbb.web.app/">React App</a> <br />
