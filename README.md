@@ -3,7 +3,7 @@ Displays live, daily active, recovered and death numbers at country level <br />
 Used disease.sh -An open API for disease-related statistics <br />
 Created Header, Table, Chart, Map – for easy visualization <br />
 Table shows countries with high cases of corona virus infected to least cases of corona virus <br />
-Website URL: React App (covid-19-tracker-23bbb.web.app) <br />
+Website URL: React App (<a>covid-19-tracker-23bbb.web.app<a>) <br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
